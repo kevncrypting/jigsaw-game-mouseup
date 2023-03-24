@@ -1,4 +1,4 @@
-// First thing I did was create 4 different variables and used either getElementById or querySelector
+// First thing I did was create 4 different variables and used either getElementById or querySelector to point the variable to an element on the HTML page
 let yesButton = document.getElementById('yesButton'); // creates a variable called yesButton that points to the element with the ID 'yesButton'
 let jigsawPicture = document.querySelector('img'); // creates a variable called jigsawPicture that points to the first img element on the HTML page
 let heading = document.querySelector('h1'); // creates a variable called heading that points to the first h1 element on the HTML page
