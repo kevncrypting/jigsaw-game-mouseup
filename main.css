@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white;
+}
+
+h3 {
+    font-size: 3rem;
+    color: yellow;
+}
+
+span {
+    color: white;
+    font-size: 2rem;
+}
+
+img {
+    height: 100vh;
+}
+
+button {
+    padding: 50px;
+    background-color: green;
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
